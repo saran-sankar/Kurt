@@ -1,3 +1,3 @@
 # Kurt
 
-A programming system based on category theory (in development)
+A programming framework for automated systems based on category theory (in development)
